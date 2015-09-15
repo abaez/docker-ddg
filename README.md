@@ -2,6 +2,9 @@
 ## A ddg development container by [Alejandro Baez](https://twitter.com/a_baez)
 
 ### DESCRIPTION
+A small container for duckduckgo opensource development. Still needs testing,
+but contains `Goodie`, `Spice`, `Fathead`, and `Longtail` duckpan bundles
+installed.
 
 ### LICENSE
 The MIT License (MIT)
